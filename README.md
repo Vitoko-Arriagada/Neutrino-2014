@@ -3,9 +3,9 @@ Neutrino. Robot Autónomo de velocidad
 
 - [Informe][informe]
 
-- [Presentacion][presentacion]
+- [Presentación][presentacion]
 
-Codigos de prueba y para competencia:
+Códigos de prueba y para competencia:
 - [Neutrino V1.0][ver1]
 - [Neutrino V2.0][ver2]
 - [Neutrino V3.0][ver3]
