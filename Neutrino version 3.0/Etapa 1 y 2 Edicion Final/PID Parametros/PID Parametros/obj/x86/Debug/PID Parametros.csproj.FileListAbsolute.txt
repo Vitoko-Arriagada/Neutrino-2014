@@ -1,0 +1,11 @@
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\bin\Debug\PID Parametros Serial.exe.manifest
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\bin\Debug\PID Parametros Serial.application
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\bin\Debug\PID Parametros Serial.exe
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\bin\Debug\PID Parametros Serial.pdb
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\veamchile.Properties.Resources.resources
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\PID Parametros.csproj.GenerateResource.Cache
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\PID Parametros Serial.exe.manifest
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\PID Parametros Serial.application
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\PID Parametros Serial.exe
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\PID Parametros\PID Parametros\obj\x86\Debug\PID Parametros Serial.pdb

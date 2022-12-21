@@ -1,0 +1,9 @@
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.exe
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.pdb
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.exe
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.pdb
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\veamchile.Properties.Resources.resources
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Trabajo\Dropbox\PORTAFOLIO\Proyectos\Visual Studio\Plantilla RS232\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog

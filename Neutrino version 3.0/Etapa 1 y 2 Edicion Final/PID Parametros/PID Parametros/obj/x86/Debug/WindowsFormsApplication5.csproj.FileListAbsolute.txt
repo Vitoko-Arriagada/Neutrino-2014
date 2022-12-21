@@ -1,0 +1,17 @@
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\veamchile.Properties.Resources.resources
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.exe
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.pdb
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.exe
+c:\users\veam chile\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.pdb
+C:\Users\VeAm cHiLe\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.exe
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\Control Matriz de LEDs ViToKo.pdb
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.exe
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Control Matriz de LEDs ViToKo.pdb
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\veamchile.Properties.Resources.resources
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Rescate\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
